@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    BASE_URL: "https://zr7fi.sse.codesandbox.io",
+    BASE_URL: "https://amazon-admin.vercel.app",
     MONGODB_URL:
       " mongodb+srv://ecommerce:harshsingh@cluster0.vcotb.mongodb.net/ecommerce-nextjs?retryWrites=true&w=majority",
     ACCESS_TOKEN_SECRET: "VY9D49zLjd6-7%G$e3h^7K=G*-9zuHFc$g@6L-Y?a_#hj2sE-M",
